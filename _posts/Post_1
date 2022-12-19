@@ -3,8 +3,7 @@ layout: post
 title: Justicia, Explicabilidad y Transparencia
 ---
 
-Como no es novedad, todo lo relacionado a data y algoritmos está rodeados de temas relacionados a la ética, 
-y los sistemas recomendadores no escapan a esta premisa. 
+Como no es novedad, todo lo relacionado a data y algoritmos está rodeados de temas relacionados a la ética, y los sistemas recomendadores no escapan a esta premisa. 
 Siempre que usamos datos para la toma de desiciones o cración de algoritmos, debemos ser concientes las consecuencias
 o externalidades que esto conlleva. Cuando nos referimos al término justicia, nos referimos a la equidad o igualdad sobre
 las condiciones o contexto en el cual nos encontramos. En el caso de sistemas recomendadores, es necesario tener en 
@@ -40,4 +39,4 @@ generar mas confianza respecto a estos algoritmos.
 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
